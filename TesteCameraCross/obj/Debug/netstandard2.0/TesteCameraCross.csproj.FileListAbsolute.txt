@@ -1,0 +1,14 @@
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\bin\Debug\netstandard2.0\TesteCameraCross.deps.json
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\bin\Debug\netstandard2.0\TesteCameraCross.dll
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\bin\Debug\netstandard2.0\ref\TesteCameraCross.dll
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\bin\Debug\netstandard2.0\TesteCameraCross.pdb
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\TesteCameraCross.csprojAssemblyReference.cache
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\TesteCameraCross.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\TesteCameraCross.AssemblyInfo.cs
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\TesteCameraCross.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\TesteCameraCross.dll
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\ref\TesteCameraCross.dll
+C:\Users\muril\source\repos\TesteCameraCross\TesteCameraCross\obj\Debug\netstandard2.0\TesteCameraCross.pdb
