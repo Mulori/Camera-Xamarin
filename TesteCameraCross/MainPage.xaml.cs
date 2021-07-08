@@ -26,6 +26,16 @@ namespace TesteCameraCross
         {
             try
             {
+
+                try
+                {
+                    Vibration.Vibrate(TimeSpan.FromMilliseconds(250));
+                }
+                catch (Exception ex)
+                {
+                    await DisplayAlert("Teste Cmera", ex.ToString(), "Ok");
+                }
+
                 var photo = await MediaPicker.CapturePhotoAsync();
                 await LoadPhotoAsync(photo);
             }
